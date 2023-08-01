@@ -103,3 +103,5 @@ C:\Users\areeba.iftikhar\source\repos\SeleniumTraining\obj\Debug\net6.0\Selenium
 C:\Users\areeba.iftikhar\source\repos\SeleniumTraining\obj\Debug\net6.0\ref\SeleniumTraining.dll
 C:\Users\areeba.iftikhar\source\repos\SeleniumTraining\bin\Debug\net6.0\WebDriver.Support.dll
 C:\Users\areeba.iftikhar\source\repos\SeleniumTraining\bin\Debug\net6.0\SeleniumExtras.WaitHelpers.dll
+C:\Users\areeba.iftikhar\source\repos\SeleniumTraining\bin\Debug\net6.0\DotLiquid.dll
+C:\Users\areeba.iftikhar\source\repos\SeleniumTraining\bin\Debug\net6.0\it\DotLiquid.resources.dll

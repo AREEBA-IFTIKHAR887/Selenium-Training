@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "/XKLJ0giYqOopMIGF+E3pbbxo2KOU9way02ItAamM5ai0yWQ597N3E8npoNXbQu1geiDzZsrwBFnfJGKhejUQA==",
+  "dgSpecHash": "1tmo43tgrSIYQbtWhesYhltP+EDxgC8TDbxT0PSYji2+AEXKqqZ/8J4A5AAqGUHidWvCdAFElfoVAs1p9bUqDQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\areeba.iftikhar\\source\\repos\\SeleniumTraining\\SeleniumTraining.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\areeba.iftikhar\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
+    "C:\\Users\\areeba.iftikhar\\.nuget\\packages\\dotliquid\\2.2.692\\dotliquid.2.2.692.nupkg.sha512",
     "C:\\Users\\areeba.iftikhar\\.nuget\\packages\\microsoft.codecoverage\\17.3.2\\microsoft.codecoverage.17.3.2.nupkg.sha512",
     "C:\\Users\\areeba.iftikhar\\.nuget\\packages\\microsoft.net.test.sdk\\17.3.2\\microsoft.net.test.sdk.17.3.2.nupkg.sha512",
     "C:\\Users\\areeba.iftikhar\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
