@@ -49,6 +49,18 @@
               "target": "Package",
               "version": "[2.2.692, )"
             },
+            "DotNetSeleniumExtras.PageObjects": {
+              "target": "Package",
+              "version": "[3.11.0, )"
+            },
+            "ExcelDataReader": {
+              "target": "Package",
+              "version": "[3.6.0, )"
+            },
+            "ExcelDataReader.DataSet": {
+              "target": "Package",
+              "version": "[3.6.0, )"
+            },
             "MSTest.TestAdapter": {
               "target": "Package",
               "version": "[2.2.10, )"
@@ -60,6 +72,14 @@
             "Microsoft.NET.Test.Sdk": {
               "target": "Package",
               "version": "[17.3.2, )"
+            },
+            "Microsoft.Office.Interop.Excel": {
+              "target": "Package",
+              "version": "[15.0.4795.1001, )"
+            },
+            "MyUtility.Excel.Core": {
+              "target": "Package",
+              "version": "[3.0.0, )"
             },
             "Selenium.Support": {
               "target": "Package",

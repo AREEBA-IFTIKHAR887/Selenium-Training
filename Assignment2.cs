@@ -13,7 +13,7 @@ namespace SeleniumTraining
         public class Login : BaseTest
         {
         
-        IWebElement password;
+         public static IWebElement password;
         
 
 
